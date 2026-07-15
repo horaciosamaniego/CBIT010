@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//UACh//Intro Programación y Manejo de Datos//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:progdatos-2026-s1-clase@uach.cl
+DTSTAMP:20260330T180000Z
+DTSTART;TZID=America/Santiago:20260319T155000
+DTEND;TZID=America/Santiago:20260319T190000
+SUMMARY:Semana 1 — Clase
+DESCRIPTION:Introducción a la computación. Del ábaco al silicio.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:progdatos-2026-s1-lab@uach.cl
+DTSTAMP:20260330T180000Z
+DTSTART;TZID=America/Santiago:20260317T081000
+DTEND;TZID=America/Santiago:20260317T094000
+SUMMARY:Semana 1 — Laboratorio analógico
+DESCRIPTION:Actividad Computador Humano.
+END:VEVENT
+
+END:VCALENDAR
